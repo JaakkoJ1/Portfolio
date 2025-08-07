@@ -1,0 +1,10 @@
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\bin\Debug\C#_Koe3.exe.config
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\bin\Debug\C#_Koe3.exe
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\bin\Debug\C#_Koe3.pdb
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\obj\Debug\C#_Koe3.csproj.AssemblyReference.cache
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\obj\Debug\C__Koe3.Form1.resources
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\obj\Debug\C__Koe3.Properties.Resources.resources
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\obj\Debug\C#_Koe3.csproj.GenerateResource.cache
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\obj\Debug\C#_Koe3.csproj.CoreCompileInputs.cache
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\obj\Debug\C#_Koe3.exe
+C:\Users\pelur\source\repos\C#_Koe3\C#_Koe3\obj\Debug\C#_Koe3.pdb
