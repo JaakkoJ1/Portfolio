@@ -1,0 +1,45 @@
+Harjoitustyön suunnitelma - Jaakko Jumpponen
+
+
+Sivustot:
+
+-   Navigaatio:
+    -   Bootstrap header ja footer
+        (Headerissä on linkit, jonka kautta voi liikkua sivustolla tiedostosta toiseen tiedostoon)
+        (Footerissa teksti "© 2025 Jaakko Jumpponen")
+
+-   Sisältää kuvan tai kuvia itsestään
+
+-   Tietoa itsestään
+    -   Millainen olen
+    -   Mistä olen kiinnostunut
+    -   Harrastukset
+    -   Vahvuudet (+ Yksi negatiivinen ominaisuus, joka voi olla myös positiivinen asia)
+    -   Koulutukset ja työpaikat
+
+-   Terveyssivusto
+    -   Tietoa yleisesti terveydestä
+        -   Verenpaineen rajat
+        -   Millä verenpaineeseen voi vaikuttaa
+        -   Ruokavalio-ohjeet
+        -   Ohjeita eri liikuntamuodoista (Aloittelijoille, kuntoliikkujille ja urheilijalle)
+        -   BMI testi
+        -   Liikuntapäiväkirja (Tallennetaan tiedostoon ja saa näkyviin yhdestä linkistä)
+        -   Linkkejä erilaisista liikuntalajeista
+
+-   Ohjelma, ohjelmointitaidot kerrottuna
+    (Onko erityisosaamista harrastuksista/entisestä ammatista)
+
+-   Yksi sivu kiinnostuksen kohteista
+
+-   Linkkejä työnäytteisiin (Käyttäen GitHubia)
+
+-   Sivu tulee olemaan minun näköinen
+
+
+Loppu:
+
+-   Sivustot sisältää tehtävän mukaiset vaatimukset
+
+-   Kun koko tehtävä on tehty, tehdään itsearviointi huolellisesti (Voi vaikuttaa arvosanaan)
+    (Apukysymyksiä voi hyödyntää)
